@@ -16,7 +16,5 @@
     "url": "https://github.com/GaryLeutheuser/npm-tutorial/issues"
   },
   "homepage": "https://github.com/GaryLeutheuser/npm-tutorial#readme",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  }
+  "dependencies": {}
 }
